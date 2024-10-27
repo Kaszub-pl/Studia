@@ -1,2 +1,3 @@
 # Studia
-Języki programowania
+Języki programowania1x
+
